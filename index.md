@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy Policy for Sudoku Brain
+---
+
 # Privacy Policy for Sudoku Brain
 
 **Last updated: January 30, 2026**
